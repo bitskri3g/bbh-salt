@@ -1,0 +1,16 @@
+#!yaml|gpg
+
+ipa_ipsec_secret: |
+  -----BEGIN PGP MESSAGE-----
+  Version: GnuPG v1
+  
+  hQEMAwAAAAAAAAAAAQf9GjNE+JhPILCgathDLV4X7RmaDJu3q8MEVx7rjDT/LhmR
+  /sndaZpKl7wn4Jxed39Pa9RL8lWQQF27pKUQmkBxfM/LdaAum5tjkgeEiuzxR8Ln
+  YJxkvEinjlK1GWLRJMNl+V4y8tiNPwbMAf8WXoihXxVNqO5ojqRDH3yf5oD4eVL1
+  OVedK/0Rxol2i/4VM2FKztMVi+GhJHooE64DrTAVF7vLa2S8mOnBXpBu9MKx86IP
+  /6CKZqIuSPcMieWhPTiUFj1BmY6EsNuEN92Wi1McOH6YVYQPjN2xO/t80RGkrsGA
+  CGg3DRLWTpxMw15V0Qu6rqoJKHY3OqCBkl/sOrNHXtJrAcp3oOcIefruhz3bmsd5
+  BDMcLKUPMsevuPXX00yLNzRFFti6jSocoqptIrtbDj63NF5Gxt4TZVoEjubTaelG
+  LlY9pK3L/Oe1rHxnRUk8L9RZKFb40tcwSaLIYeBU4zt2Cfypi75j15X/L6E=
+  =St8s
+  -----END PGP MESSAGE-----

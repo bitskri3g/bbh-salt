@@ -1,0 +1,2 @@
+mdadm:
+  pkg.installed

@@ -1,0 +1,17 @@
+#!yaml|gpg
+
+neutron_service_password: |
+  -----BEGIN PGP MESSAGE-----
+  Version: GnuPG v1
+  
+  hQEMAxjBVwDDewikAQf/ThBLhAY1h+yLeR8Wq7bEYnJ6lZQ7aJF3BZfFXibg/G0z
+  cBrvtazTbG7ZsuqyUSzo/SAGG+zbw/s0ppBU4bDimxuGSo0DKN28WKP7UPzsySmJ
+  k7kh7uPkQ1ZlvmK8FPtIl08HL9UhJjy8ScuNx5T5EbaeH8aVoeKZWrvlAb0sGypl
+  VVcVxCUHIF6iTPjkXZ5jq/vQ6lJOUmTqu7WiJDCMpCKGk6hKwVfyEnZ87qoN/8Wc
+  x8mKpCzOw3awKuAOiiHPCgqDna7mZXiibJqLP2L4G47IUG+tirXQ/FVR62mNmCZR
+  hDXo/5MFFTRk32E2Q5A5bmr+xANnfystZFSE0T/fJdKJAWtE45A9mr1OjJPQ5ueg
+  eq3M76OWFNHB253UzdM1IreMcK32io1Yh0FF3veWg8DIBiyJPjBJ4/mOuL+CNhn0
+  jplta4qcLFir89Gxe6OY8kGABBrQR7Hjxyj2LFp8C3J8e7LUp3UMkCrJuC0yMhDQ
+  3u5HOmh5TjcjP8hq4MIS70cfY/T7HKa8Tjw=
+  =dCK/
+  -----END PGP MESSAGE-----

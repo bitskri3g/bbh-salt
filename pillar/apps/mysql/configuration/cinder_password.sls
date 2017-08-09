@@ -1,0 +1,17 @@
+#!yaml|gpg
+
+cinder_password: |
+  -----BEGIN PGP MESSAGE-----
+  Version: GnuPG v1
+  
+  hQEMAxjBVwDDewikAQgAk5nZhxfTxCFIFDGl9F31vmGh9o1kWjLBQuPLbVIQIOSm
+  x9+spQZ7XT0D1s0X56QLmcvSD1UiJU5AinHKIZMEUCf6dW0ZsBuYMyxkHxnEosPQ
+  bX824ApBhif54P21vMRHyJoYX7SCaJXh1Za5N+/tExJP7e3ZPjYk63r8rr9HGfiS
+  2/yVdaV6vVhiPqGPe3VitwlEGVxr6WGxbef77XuiRu/NUup9TI62TAn9LSnvexCz
+  LN25t+us7ngQznbbVjpwvPfxgHGpAGYVzjAE1C497w8uSrLZDKlcIpdQnurtv/uA
+  q18oNsIvQiBGL3tYBW5akedo6aCnXs+AFCCMU/pEv9KMASVTIeUDaOKNdjv0s2HG
+  ipYkLX4o1u/wtiHFzhBsp7+2ZaYxOFcJM+FZ59P2+ibXSDchA1FSUO98AS0EsWmB
+  BOOmqUzyG7xDU+cw9BjRSUqjh4NjaYDy8mXGaD64upau2YifrPlOUgu7YWdXqFiu
+  RuG+OB8M9F9rJbHUoQ/9uCoo89bwujadXmmt3i8=
+  =zOEK
+  -----END PGP MESSAGE-----

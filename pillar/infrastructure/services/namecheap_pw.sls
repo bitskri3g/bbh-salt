@@ -1,0 +1,16 @@
+#!yaml|gpg
+
+namecheap_pw: |
+  -----BEGIN PGP MESSAGE-----
+  Version: GnuPG v1
+  
+  hQEMAxjBVwDDewikAQf9HzOM4U/nLKegaKRTHkw+HcXO+6SzBrHAZi036OOdQ009
+  xQN8ni58e5c1Qye8jS0lJ4ELtxFwavGlxvQLpGJT1YyACPx2qxQ17yJfXwYvwoOC
+  ng1HGtYJBYTkYI8r2wFhuLWBGGHtp2AF1/zP+Y2zrOSxe9FO/BQgqxw9AqDEyk7l
+  ebKPwWHP/mLtvUXdXXXv4ZDm9YoiG4Md+5M3bkcVTC2KeZ9U29stYIAj+jYfAYr8
+  s83cOxqS5mFd9/zNHeRZp9hJ1bX2343wLM1Hddtds5Hs3IsrdPaEttaqq1Hf3AE4
+  FKetmw3FbFoVrXGR7coFVLCrr3znMw/IfSYmwUtUpdJWAWEAKCiaUxkxnc2vSmkB
+  ne0gUy4d9O6IRph8jyV7s++kezZ4tHrSp+H4j9K62CoM8RQ5mVdKMkoYO9an0tM0
+  q+EiJ9JviwKAGKDovc2RONM1cpERqP4=
+  =nPbD
+  -----END PGP MESSAGE-----

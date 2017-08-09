@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ChromeCAC
+GenericName=Script that enables CAC usage in chrome
+Comment=Run at GDM start
+Exec=/usr/lib64/chrome_cac.sh
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true

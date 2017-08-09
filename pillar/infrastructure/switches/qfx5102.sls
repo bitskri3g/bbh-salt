@@ -1,0 +1,17 @@
+#!yaml|gpg
+
+qfx5102_secret: |
+  -----BEGIN PGP MESSAGE-----
+  Version: GnuPG v1
+  
+  hQEMAxjBVwDDewikAQgAr+JYI3V+qr8CIXNuPNkQ4+cyio/3yYdf+PHfWQ0seX33
+  wfzxGSSM6LXxsA1o2VjQrXpbIpnYG/yPy6KyD2t/EkxhRGbe2POmAZBpqfNjDe8G
+  HuLt+sZqMsipLDkn1RWq7s5zCTsetDMjxoV2ypxkqVRrlmbE5LBTRvE104CtRm+X
+  RMvu7vsbMHTe1bN72S4Cw+WqDOoyh5L2V/onkkKy+iBHEvWg/VPCuu7SQ8xYh4vU
+  DJ9BGfS1xoImOPXraTdF7r02Aa8aQxHAgpNQDCSDOzY06DmGQhZo4KLW2ou61sac
+  2FJ5yK2uRGRpv5myszBlVcrc5+oVdPStBd52kMuRNNKKAdAMv0zSW0e76e40i3vs
+  glb3Px7bCTR5wQIsS0yCCQeIFzR7pxBIz4OMtOX7gCBKQQYb8twUbBiwKv2XmZiP
+  K1j4lIshHSHM1P798mdSeenhYD2ZTB3emEmYHu9SxFp6qPudPqLSPN41PuYZuE1p
+  lVNMHHrxtHyZeK2vihhVsMPFP25REaAadIWj
+  =OQgI
+  -----END PGP MESSAGE-----

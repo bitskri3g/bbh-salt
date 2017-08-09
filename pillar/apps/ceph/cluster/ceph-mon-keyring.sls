@@ -1,0 +1,19 @@
+#!yaml|gpg
+
+ceph-mon-keyring: |
+  -----BEGIN PGP MESSAGE-----
+  Version: GnuPG v1
+  
+  hQEMAxjBVwDDewikAQf/Yr6a10ugkWKtW/0QLk66gjlSa27L4IDzg8gnIEh6vdYL
+  tIkRsgnszHxLrWhyhjeCGp8cq/L9m2x2mW37HkmfJz3fHhwk5TN3vvUNAYZW8IQ3
+  pTnjzeH27SDUnSNCbTuM7V6DSGmPbjLJmi11I3DvyXHZVhfNDRh+KfiDoZ/poxPf
+  u8urwzmUVMy9r+yIIuyoQ4lcw9Kn6LcU0ZhG20U5zGC1a4Bfhn6JBh2QdMcZeCnj
+  6v3woxLydX31/WJC3+COve2azrIhSnWGnR31lMssgT+hTh16D/fIjuBW9u6VUxiV
+  SrZ8pSbyXQMjwJrrA8C3l5oIwuhMa1+dXHZzYRGIKtLAEAHNn/HBBg5v1ZgM4NXB
+  R2ZByg4LV10OkSD1R6LiFwoKqeKHiQzBQoBuWbjICkUtRhv+v7XTiT6qEtmPWAh7
+  VgB0c7sUCRJalTy5QMAk2pUc+sNkehwn3AKeY7b0sAbHmuUf6ZkwyXTRUO/OMqI1
+  6OYlBgPwuLeIOs8GIAWbTbhQZGHj9VdHBPtQQXdJOUP9kEOgBBUeDxMczXGu7vUX
+  hGACcoO+e9cEr5m6+PCADHO7CAF8YTwSkjC2kfXcNC9e4Ru35s6Eqjb4YGY17GEb
+  ZMQ=
+  =fhhA
+  -----END PGP MESSAGE-----

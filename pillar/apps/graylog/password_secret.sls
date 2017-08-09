@@ -1,0 +1,18 @@
+#!yaml|gpg
+
+password_secret: |
+  -----BEGIN PGP MESSAGE-----
+  Version: GnuPG v1
+  
+  hQEMAwAAAAAAAAAAAQf+JAFhEINRORDV8P10qGHmIMeroN+38r/jBMsu2NAa8YEM
+  zGNzi1m7P5E374YxQeBsbyenJeckqEmaSSnHATVYIXIhoDuQuS0IGtyoNIJG6kGi
+  dKtbBHKfvevuAj9tOEgx5iAeNZInDK8bwXcjjSIUj5zX1EYZJGCHBLNOyUndZdWW
+  1+KplMeSE390wy6aMCXoxrsbi/lhirPAWeMbWUAAcUan+2jsxwb9T2KfZm15O6cf
+  ZbTVkrVh9YIuxeLoYOaMOxrX+dkx590gistr/G9ZoXyLPHNt3XaLnmcs6yNwOUXW
+  kMkgswVoSemrgYejuj4lj6iVgVGbftdNIplM6dnzN9K7AdjMuxqfm49MWDAWBQBx
+  jO6zJD5JFBFqdutP4N6W6NGIJVr5elW5XUww1onEuocVLaBK6NQXvRD1f+pt2oG1
+  qwmrMqn8DATV8QRbsBe0TVAmpKuClMaKJhefITxG65fSNo2Kr8pUyYOFwxVPfM82
+  AaaWMM7vTacX3u/gMN+EQJFZm4sFKmfcF5RiixfWhRpLUIeWjyNipBNrFH4qQf6P
+  qFNez8xj00gc0TZGWivG/9MQWqNWUPn2wqsmTg==
+  =K7HC
+  -----END PGP MESSAGE-----

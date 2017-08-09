@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=FirefoxCAC
+GenericName=Script that enables CAC usage in firefox
+Comment=Run at GDM start
+Exec=/usr/lib64/firefox_cac.sh
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true

@@ -1,0 +1,2 @@
+date:
+  cmd.run

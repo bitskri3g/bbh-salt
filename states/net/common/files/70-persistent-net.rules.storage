@@ -1,0 +1,2 @@
+SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="{{ mac0 }}", ATTR{dev_id}=="0x0", ATTR{type}=="1", NAME="ens7f0"
+SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="{{ mac1 }}", ATTR{dev_id}=="0x0", ATTR{type}=="1", NAME="ens7f1"

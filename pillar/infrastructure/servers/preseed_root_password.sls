@@ -1,0 +1,15 @@
+#!yaml|gpg
+
+preseed_root_password: |
+  -----BEGIN PGP MESSAGE-----
+  
+  hQEMAxjBVwDDewikAQgAoRJvoxD3ctJy3ABi+/pavFjCoXlvl+ODnZeEWSUw1zbJ
+  sRxfPWrrjr8QfNrQEpF+WiOR+MysGC7RtwdTYZnlRj69Ei3vrIF10BFL6HQBXLCc
+  huWyiDeVtPd0Fs2t/SC/as98YwAwiewtUmLoLAsUfsCGTOy59O2W/YBOGTqg2F1I
+  uj0lcjEmM9v27V8hAhbWmUkYAi+u+rfVyOULFB3K1tf3QuA2Io9JXll9wuLHOPn2
+  dRQwJWvCn9x3AGXVt3qp8w3oI5jVpOygODiTDMm1BX0Ruu0QVDW22aGrcF9Bfgwd
+  YbGGW97tCqnQ4yWal4o7695mIn5f0YJ95DsLr6ZXhtJXAVEsOogQsWNT30WGDSh0
+  tZuB2aKKJ4zDxeD4T+6FhhSRJFhxi1PMLdmDOSDDoxjMCdqeQ+PIdgoVCaJ4w3Xs
+  9eB8XNf4W+i/GjXlbVQv5yPhno+6a91k
+  =6AF4
+  -----END PGP MESSAGE-----

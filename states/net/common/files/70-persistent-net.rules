@@ -1,0 +1,4 @@
+SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="{{ mac0 }}", ATTR{dev_id}=="0x0", ATTR{type}=="1", NAME="ens2f0"
+SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="{{ mac1 }}", ATTR{dev_id}=="0x0", ATTR{type}=="1", NAME="ens2f1"
+SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="{{ mac2 }}", ATTR{dev_id}=="0x0", ATTR{type}=="1", NAME="ens2f2"
+SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="{{ mac3 }}", ATTR{dev_id}=="0x0", ATTR{type}=="1", NAME="ens2f3"

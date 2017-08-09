@@ -1,0 +1,17 @@
+#!yaml|gpg
+
+cybbh_space_root_mysql_pw: |
+  -----BEGIN PGP MESSAGE-----
+  Version: GnuPG v1
+  
+  hQEMAwAAAAAAAAAAAQf9GXbof4zd/0Zgyuj23KJCtB+Eguib9Mv5ggqlfWINUiE2
+  UJl6xmE3+Tv2p0JH3xxZYVx28EbDalnYnUI9bHoyevOY0+IBCW/NoPsz9EMDRzU6
+  CMg9Fd5Jx58JtRgk3Y4J/IXJfb/1/sN0VZxsVRSg+Jqe4dxAHeeCnhOz7yk0Kdka
+  abOFnXq2BvjDgq85oRI7kRi8eU87Ap7CcM1sqRyg9SZoFWu12jqez4iOCkB8MsUO
+  fVKxICKFXCKAlG0ISc3l1xeuhkAJN2yyQ0Jg+UYxYqPv2x0Z51bkEqkGYUM2PX0X
+  gXPD3aM7mP1xuGb+ONlBhhu4o48Xpj9Sd185D7BKxNKMAfVsym5up2QCl48J/7RZ
+  00UEh/dlHsiSJCJ4JUqobWFDP2UItxcnygnTYYRtp8GZoY63BdqiPtdzjeckO3dM
+  CnGCh6RUWcUZXJPvo0Mc++gFCRxTufoGZkp2n94NAoxWa+mnEmJOVqbxDSn6JZXh
+  k/QZFLy2KY50AW82dZQWdx6JwaXPMxYhGzer8YQ=
+  =Vh8e
+  -----END PGP MESSAGE-----

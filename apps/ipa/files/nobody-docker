@@ -1,0 +1,1 @@
+nobody ALL=(ALL) NOPASSWD: /usr/bin/docker run -h register.cybbh.space -i bbh/register /bin/bash /root/register.sh, /usr/bin/docker run -h register.cybbh.space -i bbh/reset /bin/bash /root/reset.sh

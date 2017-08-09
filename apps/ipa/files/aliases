@@ -1,0 +1,4 @@
+postmaster:    root
+register: "| sudo docker run -h register.cybbh.space -i bbh/register /bin/bash /root/register.sh"
+reset: "| sudo docker run -h register.cybbh.space -i bbh/reset /bin/bash /root/reset.sh"
+no-reply: "| xargs -0 > /dev/null"

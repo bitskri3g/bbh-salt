@@ -1,0 +1,16 @@
+#!yaml|gpg
+
+linode_email: |
+  -----BEGIN PGP MESSAGE-----
+  Version: GnuPG v1
+  
+  hQEMAwAAAAAAAAAAAQf+Jw5YyPT8BLp7RZ9pllBKPzLFtFRZealAR4bwkx90Lywv
+  qFbckKwxhCYMX/jvf4osM05ff4eNnx0WIEcaOmd4cSCgoqJp7kzqkf7EO08Ly3bK
+  iOVHT614W7lb3ic+guuvl/CbgpIx2ZrWqIqA+n5OVbjJLFK7q0nwlllmjNg75lH5
+  7Av4QvJCAcWPlgRNe3/tYizEiFKfDaDQOs43Yw1duoYtVatpScVCo3kl6Rg3mPWn
+  c0/PCzcv2WyAklJ3RW7HECUrIBXFOtYadnHyfWYABziTmi7FHXrxiD9NJKCo0QEh
+  X/zxv9FImug/sXhhls9VcqzMcFU36TOQTaN6v2HeydJsAXOSRO4BRC7bZEtLIaAE
+  ehN7qBaCtltG/3Q72MqqwCY6QT2yzs3caTgISfI9tRfxBYJSsaX/dxDBIY0nHN3d
+  +6BWUBG+cer80wHW3JZ3zKe5ZMfeZ59gutnklN6Bc/A8HK2R1dUSbeM9gJjC
+  =BX0S
+  -----END PGP MESSAGE-----  

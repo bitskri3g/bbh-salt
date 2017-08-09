@@ -1,0 +1,2 @@
+bridge-utils:
+  pkg.installed

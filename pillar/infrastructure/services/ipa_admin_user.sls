@@ -1,0 +1,16 @@
+#!yaml|gpg
+
+ipa_admin_user: |
+  -----BEGIN PGP MESSAGE-----
+  Version: GnuPG v1
+  
+  hQEMAwAAAAAAAAAAAQf+PQbeE97MTNsIZ/G4jSPFOgxw5dxNBH8Bj6tv91uDO63X
+  3+PJ6d54VrCEIWJUxU2vhv/UQUHzstb8dyQOO31Wp1szn0YAiFgWZcgfKRwo9k6e
+  O7IMgzmCas4Cgk7lPtD66ji1teqE9E9f/VjUJWHktuvah7/ozFuXZJqgK4MIkosO
+  c2tLLRmPJk2hJUB3Nuo+6nK3nHwi2YmgRrSUPNr0K+c9nWnKRmQZpCYqy4Bl3thY
+  GccjbHQb9vMvmaLKzszcOi1pfl56uUoZpIY5hmQOIwwv8WV/r22uRWrCJvZ5n1Gl
+  IRg5j7c9JBwOXOyrMsDSX/6/O/fFQeXJQMqOc/PLPNJDAajrlYh0u+3iJuKEBx6k
+  fKMhkxWZjYNAQJyZSJ5VOXKnVOowaOwDvx/03wjpFS7TUXs2ZAhKVxtRt4KN/Wwr
+  MWcDvA==
+  =L4dY
+  -----END PGP MESSAGE-----

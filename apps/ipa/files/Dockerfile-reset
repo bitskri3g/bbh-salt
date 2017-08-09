@@ -1,0 +1,42 @@
+########################################################################################
+# Dockerfile to process user password reset requests
+# Based on CentOS
+########################################################################################
+
+FROM centos
+MAINTAINER bitskrieg
+RUN yum update -y
+
+########################################################################################
+# Installation Begin
+
+RUN yum -y install epel-release wget krb5-workstation ipa-admintools
+RUN yum -y install msmtp
+RUN wget https://git.cybbh.space/vta/saltstack/raw/master/apps/ipa/files/mpack.rpm
+RUN rpm -i mpack.rpm
+RUN mkdir -p /var/lib/sss/pubconf/krb5.include.d/
+
+# Installation End
+########################################################################################
+
+########################################################################################
+# Configuration Begin
+
+ENV reset_user_password={{ reset_user_password }}
+ENV admin_email={{ admin_email }}
+
+ADD https://git.cybbh.space/vta/saltstack/raw/master/apps/ipa/files/default.conf /etc/ipa/default.conf
+ADD https://git.cybbh.space/vta/saltstack/raw/master/apps/ipa/files/krb5.conf /etc/krb5.conf
+ADD https://git.cybbh.space/vta/saltstack/raw/master/apps/ipa/files/reset.sh /root/reset.sh
+ADD https://git.cybbh.space/vta/saltstack/raw/master/apps/ipa/files/verify.sh /root/verify.sh
+ADD https://git.cybbh.space/vta/saltstack/raw/master/apps/ipa/files/all.pem /root/all.pem
+ADD https://git.cybbh.space/vta/saltstack/raw/master/apps/ipa/files/DSTRootCAX3.crt /etc/ipa/DSTRootCAX3.crt
+ADD https://git.cybbh.space/vta/saltstack/raw/master/apps/ipa/files/letsencryptx3.crt /etc/ipa/letsencryptx3.crt
+ADD https://git.cybbh.space/vta/saltstack/raw/master/apps/ipa/files/ipa_ca.crt /etc/ipa/ipa_ca.crt
+
+RUN certutil -A -n IPA.CYBBH.SPACE -t "CT,C,C" -i /etc/ipa/ipa_ca.crt -d /etc/ipa/nssdb
+RUN certutil -A -n DSTRootCAX3 -t "C,," -i /etc/ipa/DSTRootCAX3.crt -d /etc/ipa/nssdb
+RUN certutil -A -n letsencryptx3 -t "C,," -i /etc/ipa/letsencryptx3.crt -d /etc/ipa/nssdb
+
+# Configuration End
+########################################################################################

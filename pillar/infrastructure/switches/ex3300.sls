@@ -1,0 +1,17 @@
+#!yaml|gpg
+
+ex3300_secret: |
+  -----BEGIN PGP MESSAGE-----
+  Version: GnuPG v1
+  
+  hQEMAxjBVwDDewikAQf9HRTqRN5gTDaVBOjEPj9WKuVzwTVNP4W+NOYZrxEc+uEL
+  u6KZoyezqvhgJSsk3Am4co0lLPz1gbwHpc9NgddQuG+oMJLD7ZdJTy1YeACr63uA
+  tHBwFygSqyDudOQecdP+yrCxJqyk4oxhldqH9zzax58D4D7hU3cEfqdWXr+wzuNE
+  FzLBeYMhXD4o2gN4jZ8bIJrJCJerC78+Pr1aMgKf2jDKgXA2OU3MaqLLZdDgUo+n
+  e98bcrhQ21HgLfWBx+/FSrG4hvfB2G4v/I76uhsFZhVLXcB3ZJ8KVQI9yLmBDp5W
+  ncKJ9d98zpg4GDwyCflQmCTTHMMLrtNWFRW1CeOdxtKQAafEBCdvqZ+oBqkGaEI3
+  FwJZoX3btx+AuZVNLRg9z3DS8uGYzVaIaR87ROXXTKLDsVEzyZrdsElBa76GU+mn
+  REJSD1vY5khTdEMID3CMpVjcUs/0NiGodou9moYXQVfLnk5kQIkFJ5mqjtun+B1Y
+  Owzzfw8IduTdO08ZDE9BaHgNm94qmNJTuJmMWRhpN4rx
+  =W8fu
+  -----END PGP MESSAGE-----

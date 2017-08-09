@@ -1,0 +1,18 @@
+#!yaml|gpg
+
+placement_service_password: |
+
+  -----BEGIN PGP MESSAGE-----
+  Version: GnuPG v1
+  
+  hQEMAwAAAAAAAAAAAQf/UZb5q6UirtAZChZ0cuZrAW7dD9Bmb9fXEdkQnTSznYIM
+  5UtReeSZah5pOmT+E34PMbZXJlGhnpqh9HYiL7RwS+vmOO80TOfG9PV24LIQZfA+
+  UDfipf9imHLJdPcH6Sn+ekjW6+vg59qWhZykwkxx2lnJJRPXr0A658lpYxoNLTGQ
+  tctEH2y7HJQkKGtqzqo/1P4jwNzY6yz1y3L2AHEEZOQTzlKTtWWnIUwjngy/eU9A
+  p6w9Ov4GmT35RCvJt2YZOsvBEUH7HWzmJX+ve6ONC4MJIRlFtNIEAKIrcYw3D1v0
+  Ho9pe77yOl5MGOCCgRWsQcCIwExAh/oisZrsRmlxfNKMATzrRwyVoHgTxuCtOCqd
+  55MU3Z/kZgtPG/DzzW1gR/yu7YQMAov3bl7pjTkO0F1lpTPWVlkdVdeGRSBys3i4
+  0RoW/NNYp0u8VqVeuIipDdoMwn2QUT0tg5tjfe8+w63sbjCYVGiWEiJOmcYNWOWA
+  8kDAMUX4qZM7pIx/RsRJI2LYwflgDkWaWU86F4o=
+  =wkgk
+  -----END PGP MESSAGE-----

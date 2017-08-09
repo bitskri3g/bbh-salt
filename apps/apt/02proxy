@@ -1,0 +1,1 @@
+Acquire::http::proxy "http://pkg-cache.bbh.cyberschool.army.mil:3142";

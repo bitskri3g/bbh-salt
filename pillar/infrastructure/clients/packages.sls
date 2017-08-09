@@ -1,0 +1,25 @@
+client_packages:
+  pkgs:
+    - kvm
+    - ssvnc
+    - arduino
+    - git
+    - sssd
+    - freerdp-x11
+    - vim
+    - zsh
+    - xvfb
+    - tmux
+    - strace
+    - openssh-server
+    - samba
+    - curl
+    - firmware-linux-nonfree
+    - libpcsclite1
+    - pcscd
+    - pcsc-tools
+    - firmware-iwlwifi
+    - firmware-b43-installer
+    - libnss3-tools
+    - google-chrome-stable
+    - build-essential
